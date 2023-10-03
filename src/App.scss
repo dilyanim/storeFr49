@@ -1,0 +1,11 @@
+@import "../src/components/Header/index.scss";
+@import '../src/components/Main/index.scss';
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
